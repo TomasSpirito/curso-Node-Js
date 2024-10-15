@@ -1,0 +1,27 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "curso de nodejs midudev",
+  "main": "1.os-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasSpirito/curso-Node-Js.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "tomas spirito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasSpirito/curso-Node-Js/issues"
+  },
+  "homepage": "https://github.com/TomasSpirito/curso-Node-Js#readme",
+  "dependencies": {
+    "picocolors": "^1.1.0"
+  }
+}
